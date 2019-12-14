@@ -1,0 +1,15 @@
+﻿transaction_id,email,is_fraud
+1,david@gmail.com,0
+2,david@gmail.com,0
+3,ryan@hotmail.com,1
+4,andy@yahoo.com,1
+5,peter@gmail.com,1
+6,andy@yahoo.com,0
+7,andy@yahoo.com,1
+8,ryan@hotmail.com,0
+9,teddy@iyzico.com,1
+10,ryan@hotmail.com,1
+11,peter@gmail.com,1
+12,david@gmail.com,0
+13,eric@stanford.edu.tr,0
+14,ryan@hotmail.com,1
