@@ -1,15 +1,11 @@
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
-
-For a more visually pleasant experience for browsing the portfolio, check out [sajalsharma.com](http://sajalsharma.com)
-
-#### The R portfolio is located [here](http://rpubs.com/sajal_sharma/).
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks and .py format.
 
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
 ## Contents
 
-- ### Machine Learning
+- ### Ford Motor Company- Defects in Car Body Work Images of Steels
 
 	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
